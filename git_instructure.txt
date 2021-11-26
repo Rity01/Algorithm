@@ -1,0 +1,11 @@
+git clone https://github.com/Rity01/Algorithm.git Git
+
+
+git status
+
+git add *
+git reset .
+
+git commit -m ""
+
+git push origin main
